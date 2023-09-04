@@ -1,3 +1,3 @@
 <div align="center">
-<img src="triq_resize.png">
+<img src="triq_resize_.png">
 </div>
